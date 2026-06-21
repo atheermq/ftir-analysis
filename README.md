@@ -34,3 +34,12 @@ results/ — output figures
 - Run all cells
 
 4. **Or run the Python script**
+## ⚙️ Installation | التثبيت
+
+Before running the project, install the required Python libraries:
+
+pip install numpy pandas matplotlib scipy
+
+If you are using Jupyter Notebook, install it as well:
+
+pip install notebook
