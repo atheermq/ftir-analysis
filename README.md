@@ -43,3 +43,13 @@ pip install numpy pandas matplotlib scipy
 If you are using Jupyter Notebook, install it as well:
 
 pip install notebook
+## 📊 Example Output | مثال على المخرجات
+
+After running the notebook or Python script, the project generates:
+
+- FTIR spectrum plot
+- Peak detection results
+- Processed absorbance vs. wavenumber data
+- Saved figures inside the `results/` folder
+
+These outputs help visualize chemical and structural changes in the samples.
