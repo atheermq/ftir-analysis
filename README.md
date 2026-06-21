@@ -25,3 +25,12 @@ scripts/ — Python processing script
 data/ — sample dataset
 
 results/ — output figures
+## ▶️ How to Run the Project
+
+1. **Clone the repository**
+2. **Install required libraries**
+3. **Run the Jupyter Notebook**
+- Open `notebooks/ftir_analysis.ipynb`
+- Run all cells
+
+4. **Or run the Python script**
